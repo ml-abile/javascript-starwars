@@ -24,6 +24,7 @@ O layout da aplicação desenvolvida:
 
  ## 📝 Licença
 
-Este projeto esta sobe a licença MIT. 
+Este projeto esta sobe a [MIT License](./LICENSE.md).
+
 
 Feito com ❤️ por Moira Abile 👋🏽 [Entre em contato!](https://br.linkedin.com/in/moira-luiza-abile-93526816a)
